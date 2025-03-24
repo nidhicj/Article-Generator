@@ -80,7 +80,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please contact [over my email](mailto:joshichi.nidhi@gmail.com).
 
 ---
 
