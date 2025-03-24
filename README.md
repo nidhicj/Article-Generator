@@ -22,6 +22,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system capable of
    - The system searches the generated corpus using retrieval algorithms (e.g., vector similarity, keyword matching) to find the most relevant article.
    - The retrieved article is then presented to the user.
 
+<!--
 ## Installation
 
 1. Clone the repository:
@@ -85,3 +86,4 @@ For questions or feedback, please contact [over my email](mailto:joshichi.nidhi@
 ---
 
 This README provides a basic overview of the RAG system. For detailed documentation, refer to the `docs` folder or visit the project's [wiki](https://github.com/yourusername/rag-system/wiki).
+-->
